@@ -24,6 +24,3 @@ yarn-error.log*
 # OS Metadata
 .DS_Store
 Thumbs.db
-
-# Temporarily ignore product images for initial push
-shop/storage/products/images/
