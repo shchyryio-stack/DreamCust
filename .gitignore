@@ -24,3 +24,6 @@ yarn-error.log*
 # OS Metadata
 .DS_Store
 Thumbs.db
+
+# Raw image input folder (already processed into storage)
+shop/Images/
